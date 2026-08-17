@@ -27,3 +27,6 @@ Using earthquake performance and magnitude data from **2016 to 2026**, the appli
 
 ### C. Depth Distribution Analysis
 * **Focal Depth Tracking:** Analyzes focal depth patterns over time to help distinguish shallow vs. deep seismic activity.
+
+#### Data Reference
+* [https://www.kaggle.com/datasets/alitaqishah/nvidia-stock-data-19992026-the-ai-mega-stock](https://www.kaggle.com/datasets/bwandowando/philippine-earthquakes-from-phivolcs/data)
